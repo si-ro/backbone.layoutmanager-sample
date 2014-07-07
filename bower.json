@@ -1,0 +1,14 @@
+{
+  "name": "backbone-boilerplate-sample",
+  "dependencies": {
+    "html5-boilerplate": "~4.3.0",
+    "almond": "~0.2.9",
+    "lodash": "~2.4.1",
+    "backbone": "~1.1.1",
+    "jquery": "~2.1.0",
+    "requirejs": "~2.1.10",
+    "sinon": "~1.8.2",
+    "layoutmanager": "~0.9.5",
+    "lodash-template-loader": "~0.1.5"
+  }
+}
